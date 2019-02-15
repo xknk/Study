@@ -1,0 +1,127 @@
+  <style type="text/css">
+  .start1{
+background-color: #283036 !important;
+ 
+  }
+  .img_1{
+
+
+
+}
+
+  .link{
+    color: #ffffff;
+   font-size: 20px;
+  width: 100px;
+ margin-left: 10px;
+
+  }
+
+  .carousel-inner img {
+      width: 100%;
+
+    
+  }
+  .img_2{
+    margin-left: 20%;
+  }
+  .text_1{
+    margin-left: 42%;
+    font-size: 20px;
+    
+  }
+  .text_2{
+    margin-left: 30%;
+    color: #999999;
+  }
+  .text_3{
+    font-size: 20px;
+    margin-left: 30%;
+     color: #999999;
+
+  }
+  .text_4{
+    margin-left: 40%;
+     color: #999999;
+  }
+  
+.img_3{
+   margin-top: 10px;
+}
+.jumbotron{
+  background-color: #293036;
+  
+}
+.link_2{
+  margin-top: -30px;
+  margin-left: 0px;
+  width: 100%;
+}
+.link_3{
+
+  margin-left: 60px;
+ color: #999999;
+}
+.link_3:hover:not(.active) {
+    text-decoration: none;
+    color: white;
+    
+}
+
+
+.text_5{
+  font-size: 30px;
+  color: #79818A;
+  margin-left: 10%;
+  margin-top: 20px;
+}
+.text_6{
+color: #79818A;
+
+margin-left: 10%;
+}
+
+.img_4{
+  margin-left: 20%;
+}
+hr{
+  background-color: #111111;
+  margin-top: -0px;
+
+}
+.row{
+  width:99%;
+}
+
+
+.start10{
+  float: right;
+}
+.start10 ul{
+width: 100%;
+}
+.img_10{
+  padding: 10px 0px;
+}
+.top{
+ 
+   z-index: 10;
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    background: bule;
+    float: right;
+    font-weight: bold;
+
+
+}
+.ding_1{
+  display: none;
+}
+.ding_2{
+  display:block;
+}
+
+  </style>
