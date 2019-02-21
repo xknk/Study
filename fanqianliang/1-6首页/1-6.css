@@ -1,4 +1,4 @@
-  .link{
+ .link{
 width: 100px;
  }
  .link_2{
@@ -28,8 +28,11 @@ margin-left: 20%;
 .img_5{
   padding: 73px 0px 0px 37px
 }
+.hidden{
+  display: none;
+}
 .jum_1{
-  background-color: #ffffff;
+  background-color:#ffffff;
   padding: 0px;
 }
 .jum_2{
@@ -113,7 +116,8 @@ margin-bottom: 8px;
 .btn_top,.btn_top a{
   width:69px;
   height:81px;
-  overflow:hidden;}
+  overflow:hidden;
+}
 .btn_top{
   position:fixed;_position:absolute;
   _top:expression(documentElement.scrollTop + documentElement.clientHeight-this.offsetHeight 50);
